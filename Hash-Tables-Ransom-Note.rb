@@ -1,3 +1,5 @@
+# https://www.hackerrank.com/challenges/ctci-ransom-note
+
 #!/bin/ruby
 
 m,n = gets.strip.split(' ')
